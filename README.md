@@ -18,7 +18,7 @@ Este proyecto es una prueba técnica construida con el framework **Laravel** que
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/tu-repo.git
+git clone https://github.com/Devmetrio/PruebaTecnica_GermanAmes.git
 cd PruebaTecnica_GermanAmes
 
 # 2. Instala las dependencias PHP
